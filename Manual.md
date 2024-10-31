@@ -1,5 +1,4 @@
 # Manual de Componentes en Ionic Vue
-
 ## Ejemplo de 10 Componentes
 
 ```vue
@@ -25,6 +24,7 @@
           </ion-button>
         </ion-card-content>
       </ion-card>
+
 
       <!-- Componente de Checkbox -->
       <ion-card>
@@ -97,32 +97,45 @@ const mostrarNotificacion = async () => {
 
 ### 1. **Alerta**
 - Un botón que muestra una alerta al ser presionado.
-
+![](capturas/1.png)
+![](capturas/1f.png)
 ### 2. **Checkbox**
 - Dos opciones que el usuario puede seleccionar o deseleccionar.
-
+![](capturas/2.png)
+![](capturas/2f.png)
 ### 3. **Fecha (Date Picker)**
 - Un selector de fecha con formato `DD/MM/YYYY`.
-
+![](capturas/3.png)
+![](capturas/3f.png)
 ### 4. **Radio Button**
 - Permite seleccionar un solo valor de "Masculino" o "Femenino".
-
+![](capturas/4.png)
+![](capturas/4f.png)
 ### 5. **Rango (Slider)**
 - Un control deslizante para ajustar el volumen de 0 a 100.
-
+![](capturas/5.png)
+![](capturas/5f.png)
 ### 6. **Select**
 - Un desplegable para seleccionar un país.
-
+![](capturas/6.png)
+![](capturas/6f.png)
 ### 7. **Segmento**
 - Tres botones para seleccionar una categoría: "Noticias", "Deportes", "Entretenimiento".
-
+![](capturas/7.png)
+![](capturas/7f.png)
 ### 8. **Spinner (Cargando)**
 - Muestra un icono de carga en estilo crescent.
-
+![](capturas/8.png)
 ### 9. **Toggle (Modo Oscuro)**
 - Un interruptor para activar o desactivar el modo oscuro.
-
+![](capturas/9.png)
+![](capturas/9f.png)
 ### 10. **Toast (Notificación)**
 - Un botón que muestra una notificación al ser presionado.
-
+![](capturas/10.png)
+![](capturas/10f.png)
+### **Vista completa**
+![](capturas/11com.png)
+![](capturas/12com.png)
+![](capturas/13com.png)
 ---
