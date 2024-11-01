@@ -1,4 +1,4 @@
-# Manual de Componentes en Ionic Vue
+# Manual de Componentes
 ## Ejemplo de 10 Componentes
 
 ```vue
