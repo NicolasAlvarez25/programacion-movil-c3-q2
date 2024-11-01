@@ -7,7 +7,7 @@
     <!-- Encabezado Principal -->
     <ion-header>
       <ion-toolbar color="primary">
-        <ion-title>Ejemplo de Componentes en Ionic Vue</ion-title>
+        <ion-title>Ejemplo de Componentes</ion-title>
       </ion-toolbar>
     </ion-header>
 
